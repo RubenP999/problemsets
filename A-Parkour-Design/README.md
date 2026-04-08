@@ -1,8 +1,9 @@
-#  2202A - Parkour Design CODEFORCES
+#  2202A - Parkour Design CODEFORCES 
 
 ### 📊 Veredicto: ACCEPTED | ⏱️ Time: 46 ms | 💾 Memory: 0 KB
 
-Este repositorio contiene la solución al problema de **Parkour Design** 
+Este repositorio contiene la solución al problema de **Parkour Design**
+**Link del Problema:** [Codeforces #2026](https://codeforces.com/problemset/problem/2202/A)
 
 ---
 
